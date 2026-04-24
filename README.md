@@ -7,3 +7,10 @@
 
 ## How to Run
 Open index.html in browser
+
+---
+
+## 📸 Screenshots
+
+### 🌐 Multi-Step Form UI
+![Form](./form-ui.png)
